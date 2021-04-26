@@ -25,7 +25,7 @@ REGEX_GLYPH_LIST = r'{{ GLYPH_LIST }}'
 REGEX_STYLE_LIST = r'{{ STYLE_LIST }}'
 
 config_type = typing.Dict[str, typing.Union[str, typing.List[str]]]
-glyphs_type = typing.Dict[str, str]
+glyphs_type = typing.Dict[str]
 
 logging.basicConfig(format='%(asctime)s %(levelname)s :: %(message)s', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
