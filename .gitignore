@@ -1,0 +1,46 @@
+*.pyc
+*.DS_Store
+.vscode
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+**/public/js/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+
+dist/
+
+.idea/
+cli/swimm.egg-info/*
+cli/swimm.spec
+/devops/pack/linux/staging/swimm-linux
+
+#Electron-builder and CLI webpack output
+/dist_electron
+/dist_packed
+/dist_cli
+
+#Env variables to remove from git
+.env.packing
+
+# Husky git hooks
+.husky/_
+.husky/.gitignore
