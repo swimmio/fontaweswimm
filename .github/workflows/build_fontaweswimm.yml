@@ -3,7 +3,7 @@ name: Build Fontaweswimm
 on:
   workflow_dispatch:
     paths:
-      - glyphs/**
+      - src/glyphs/**
 
 jobs:
   build_font:
@@ -21,10 +21,10 @@ jobs:
         run: brew install fontforge
       - name: Chmod the script
         shell: bash
-        run: chmod +x scripts/icons2fontaweswimm/icons2fontaweswimm.py
+        run: chmod +x src/scripts/icons2fontaweswimm/icons2fontaweswimm.py
       - name:  Build fonts
         shell: bash
-        run: fontforge -script scripts/icons2fontaweswimm/icons2fontaweswimm.py scripts/icons2fontaweswimm/config/config.json glyphs/ scripts/icons2fontaweswimm/templates -o fonts/fontaweswimm
+        run: fontforge -script src/scripts/icons2fontaweswimm/icons2fontaweswimm.py src/scripts/icons2fontaweswimm/config/config.json src/glyphs/ src/scripts/icons2fontaweswimm/templates -o src/fonts/fontaweswimm
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
