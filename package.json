@@ -1,0 +1,21 @@
+{
+  "name": "fontaweswimm",
+  "version": "1.0.0",
+  "description": "Fontaweswimm fonts for Swimm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swimmio/fontaweswimm.git"
+  },
+  "keywords": [
+    "font",
+    "fonts",
+    "swimm",
+    "swimmio"
+  ],
+  "author": "Swimm.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swimmio/fontaweswimm/issues"
+  },
+  "homepage": "https://github.com/swimmio/fontaweswimm#readme"
+}
