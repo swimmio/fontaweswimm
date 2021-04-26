@@ -10,7 +10,6 @@ Not to be confused with [svg2ttf](http://fontforge.github.io/generate.html).
 Users with more sophisticated needs probably want
 [Font Custom](http://fontcustom.com/),
 [grunt-webfont](https://github.com/sapegin/grunt-webfont), or
-[IcoMoon](https://icomoon.io/).
 
 ## Dependencies
 
