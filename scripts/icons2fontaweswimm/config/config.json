@@ -1,0 +1,56 @@
+{
+  "props": {
+    "ascent": 960,
+    "descent": 64,
+    "encoding": "UnicodeFull",
+    "lang": "English (US)",
+    "family": "Swimm",
+    "style": "Regular",
+    "familyname": "Swimm",
+    "fontname": "Swimm-Regular",
+    "fullname": "Swimm Regular"
+  },
+  "sfnt_names": [
+    [
+      "English (US)",
+      "Copyright",
+      "Copyright (c) 2020 by Nobody"
+    ],
+    [
+      "English (US)",
+      "Family",
+      "Swimm"
+    ],
+    [
+      "English (US)",
+      "SubFamily",
+      "Regular"
+    ],
+    [
+      "English (US)",
+      "UniqueID",
+      "SwimmIO"
+    ],
+    [
+      "English (US)",
+      "Fullname",
+      "Swimm Regular"
+    ],
+    [
+      "English (US)",
+      "Version",
+      "Version 001.000"
+    ],
+    [
+      "English (US)",
+      "PostScriptName",
+      "Swimm-Regular"
+    ]
+  ],
+  "input": ".",
+  "output_fonts": [
+    "fontaweswimm.ttf",
+    "fontaweswimm.svg",
+    "fontaweswimm.woff"
+  ]
+}
