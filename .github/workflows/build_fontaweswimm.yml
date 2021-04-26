@@ -1,0 +1,34 @@
+name: Build Fontaweswimm
+
+on:
+  workflow_dispatch:
+    paths:
+      - public/glyphs/**
+
+jobs:
+  build_font:
+    # runs-on: ubuntu-latest
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+      - name: Brew Install
+        shell: bash
+        run: brew install fontforge
+      - name: Chmod the script
+        shell: bash
+        run: chmod +x scripts/icons2fontaweswimm/icons2fontaweswimm.py
+      - name:  Build fonts
+        shell: bash
+        run: fontforge -script scripts/icons2fontaweswimm/icons2fontaweswimm.py scripts/icons2fontaweswimm/config/config.json public/glyphs/ scripts/icons2fontaweswimm/templates -o public/fonts/fontaweswimm
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: "Automatically build Fontaweswimm!"
+          add: "."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
