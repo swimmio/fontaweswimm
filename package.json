@@ -1,5 +1,6 @@
 {
   "name": "fontaweswimm",
+  "main": "src/fonts/fontaweswimm/style.css",
   "version": "1.0.1",
   "description": "Fontaweswimm fonts for Swimm",
   "repository": {
