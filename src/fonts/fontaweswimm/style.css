@@ -421,148 +421,153 @@
 }
 
 
-.icon-star-filled:before {
+.icon-snippet-highlight:before {
   content: "\e94f";
 }
 
 
-.icon-star-outline:before {
+.icon-star-filled:before {
   content: "\e950";
 }
 
 
-.icon-start-fill:before {
+.icon-star-outline:before {
   content: "\e951";
 }
 
 
-.icon-start-outline:before {
+.icon-start-fill:before {
   content: "\e952";
 }
 
 
-.icon-stats:before {
+.icon-start-outline:before {
   content: "\e953";
 }
 
 
-.icon-strike:before {
+.icon-stats:before {
   content: "\e954";
 }
 
 
-.icon-sync:before {
+.icon-strike:before {
   content: "\e955";
 }
 
 
-.icon-task:before {
+.icon-sync:before {
   content: "\e956";
 }
 
 
-.icon-team:before {
+.icon-task:before {
   content: "\e957";
 }
 
 
-.icon-terminal:before {
+.icon-team:before {
   content: "\e958";
 }
 
 
-.icon-time:before {
+.icon-terminal:before {
   content: "\e959";
 }
 
 
-.icon-trash-fill:before {
+.icon-time:before {
   content: "\e95a";
 }
 
 
-.icon-trash-outline:before {
+.icon-trash-fill:before {
   content: "\e95b";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-outline:before {
   content: "\e95c";
 }
 
 
-.icon-twitter:before {
+.icon-tutorial:before {
   content: "\e95d";
 }
 
 
-.icon-ul:before {
+.icon-twitter:before {
   content: "\e95e";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e95f";
 }
 
 
-.icon-update:before {
+.icon-unavailable:before {
   content: "\e960";
 }
 
 
-.icon-updated:before {
+.icon-update:before {
   content: "\e961";
 }
 
 
-.icon-upload:before {
+.icon-updated:before {
   content: "\e962";
 }
 
 
-.icon-video:before {
+.icon-upload:before {
   content: "\e963";
 }
 
 
-.icon-warning:before {
+.icon-video:before {
   content: "\e964";
 }
 
 
-.icon-window-check:before {
+.icon-warning:before {
   content: "\e965";
 }
 
 
-.icon-window-invalid:before {
+.icon-window-check:before {
   content: "\e966";
 }
 
 
-.icon-window-magic:before {
+.icon-window-invalid:before {
   content: "\e967";
 }
 
 
-.icon-window-unavailable:before {
+.icon-window-magic:before {
   content: "\e968";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e969";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e96a";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e96b";
+}
+
+
+.icon-workspace:before {
+  content: "\e96c";
 }
 
 /* Automatic class generation: end */
