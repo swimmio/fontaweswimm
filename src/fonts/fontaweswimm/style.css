@@ -356,258 +356,263 @@
 }
 
 
-.icon-page:before {
+.icon-outbound-link:before {
   content: "\e942";
 }
 
 
-.icon-pencil:before {
+.icon-page:before {
   content: "\e943";
 }
 
 
-.icon-pending:before {
+.icon-pencil:before {
   content: "\e944";
 }
 
 
-.icon-pin:before {
+.icon-pending:before {
   content: "\e945";
 }
 
 
-.icon-pin2:before {
+.icon-pin:before {
   content: "\e946";
 }
 
 
-.icon-plan:before {
+.icon-pin2:before {
   content: "\e947";
 }
 
 
-.icon-plans:before {
+.icon-plan:before {
   content: "\e948";
 }
 
 
-.icon-play-outline:before {
+.icon-plans:before {
   content: "\e949";
 }
 
 
-.icon-playlist:before {
+.icon-play-outline:before {
   content: "\e94a";
 }
 
 
-.icon-plugins:before {
+.icon-playlist:before {
   content: "\e94b";
 }
 
 
-.icon-refresh:before {
+.icon-plugins:before {
   content: "\e94c";
 }
 
 
-.icon-repo-provider:before {
+.icon-refresh:before {
   content: "\e94d";
 }
 
 
-.icon-resize-expand:before {
+.icon-repo-provider:before {
   content: "\e94e";
 }
 
 
-.icon-resize-shrink:before {
+.icon-resize-expand:before {
   content: "\e94f";
 }
 
 
-.icon-search:before {
+.icon-resize-shrink:before {
   content: "\e950";
 }
 
 
-.icon-send:before {
+.icon-search:before {
   content: "\e951";
 }
 
 
-.icon-share:before {
+.icon-send:before {
   content: "\e952";
 }
 
 
-.icon-shortcut:before {
+.icon-share:before {
   content: "\e953";
 }
 
 
-.icon-shrink:before {
+.icon-shortcut:before {
   content: "\e954";
 }
 
 
-.icon-signout:before {
+.icon-shrink:before {
   content: "\e955";
 }
 
 
-.icon-simplified-code:before {
+.icon-signout:before {
   content: "\e956";
 }
 
 
-.icon-snippet-highlight:before {
+.icon-simplified-code:before {
   content: "\e957";
 }
 
 
-.icon-star-filled:before {
+.icon-snippet-highlight:before {
   content: "\e958";
 }
 
 
-.icon-star-outline:before {
+.icon-star-filled:before {
   content: "\e959";
 }
 
 
-.icon-start-fill:before {
+.icon-star-outline:before {
   content: "\e95a";
 }
 
 
-.icon-start-outline:before {
+.icon-start-fill:before {
   content: "\e95b";
 }
 
 
-.icon-stats:before {
+.icon-start-outline:before {
   content: "\e95c";
 }
 
 
-.icon-strike:before {
+.icon-stats:before {
   content: "\e95d";
 }
 
 
-.icon-sync:before {
+.icon-strike:before {
   content: "\e95e";
 }
 
 
-.icon-task:before {
+.icon-sync:before {
   content: "\e95f";
 }
 
 
-.icon-team:before {
+.icon-task:before {
   content: "\e960";
 }
 
 
-.icon-terminal:before {
+.icon-team:before {
   content: "\e961";
 }
 
 
-.icon-time:before {
+.icon-terminal:before {
   content: "\e962";
 }
 
 
-.icon-trash-fill:before {
+.icon-time:before {
   content: "\e963";
 }
 
 
-.icon-trash-outline:before {
+.icon-trash-fill:before {
   content: "\e964";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-outline:before {
   content: "\e965";
 }
 
 
-.icon-twitter:before {
+.icon-tutorial:before {
   content: "\e966";
 }
 
 
-.icon-ul:before {
+.icon-twitter:before {
   content: "\e967";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e968";
 }
 
 
-.icon-update:before {
+.icon-unavailable:before {
   content: "\e969";
 }
 
 
-.icon-updated:before {
+.icon-update:before {
   content: "\e96a";
 }
 
 
-.icon-upload:before {
+.icon-updated:before {
   content: "\e96b";
 }
 
 
-.icon-video:before {
+.icon-upload:before {
   content: "\e96c";
 }
 
 
-.icon-warning:before {
+.icon-video:before {
   content: "\e96d";
 }
 
 
-.icon-window-check:before {
+.icon-warning:before {
   content: "\e96e";
 }
 
 
-.icon-window-invalid:before {
+.icon-window-check:before {
   content: "\e96f";
 }
 
 
-.icon-window-magic:before {
+.icon-window-invalid:before {
   content: "\e970";
 }
 
 
-.icon-window-unavailable:before {
+.icon-window-magic:before {
   content: "\e971";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e972";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e973";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e974";
+}
+
+
+.icon-workspace:before {
+  content: "\e975";
 }
 
 /* Automatic class generation: end */
