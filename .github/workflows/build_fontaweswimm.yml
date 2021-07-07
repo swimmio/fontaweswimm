@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
     paths:
       - src/glyphs/**
+  pull_request:
 
 jobs:
   build_font:
