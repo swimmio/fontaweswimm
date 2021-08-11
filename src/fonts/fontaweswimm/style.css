@@ -451,128 +451,133 @@
 }
 
 
-.icon-star-filled:before {
+.icon-sort:before {
   content: "\e955";
 }
 
 
-.icon-star-outline:before {
+.icon-star-filled:before {
   content: "\e956";
 }
 
 
-.icon-start-outline:before {
+.icon-star-outline:before {
   content: "\e957";
 }
 
 
-.icon-stats:before {
+.icon-start-outline:before {
   content: "\e958";
 }
 
 
-.icon-strike:before {
+.icon-stats:before {
   content: "\e959";
 }
 
 
-.icon-sync:before {
+.icon-strike:before {
   content: "\e95a";
 }
 
 
-.icon-task:before {
+.icon-sync:before {
   content: "\e95b";
 }
 
 
-.icon-team:before {
+.icon-task:before {
   content: "\e95c";
 }
 
 
-.icon-terminal:before {
+.icon-team:before {
   content: "\e95d";
 }
 
 
-.icon-time:before {
+.icon-terminal:before {
   content: "\e95e";
 }
 
 
-.icon-trash-fill:before {
+.icon-time:before {
   content: "\e95f";
 }
 
 
-.icon-trash-outline:before {
+.icon-trash-fill:before {
   content: "\e960";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-outline:before {
   content: "\e961";
 }
 
 
-.icon-twitter:before {
+.icon-tutorial:before {
   content: "\e962";
 }
 
 
-.icon-ul:before {
+.icon-twitter:before {
   content: "\e963";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e964";
 }
 
 
-.icon-update:before {
+.icon-unavailable:before {
   content: "\e965";
 }
 
 
-.icon-updated:before {
+.icon-update:before {
   content: "\e966";
 }
 
 
-.icon-upload:before {
+.icon-updated:before {
   content: "\e967";
 }
 
 
-.icon-video:before {
+.icon-upload:before {
   content: "\e968";
 }
 
 
-.icon-warning:before {
+.icon-video:before {
   content: "\e969";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e96a";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e96b";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e96c";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e96d";
+}
+
+
+.icon-workspace:before {
+  content: "\e96e";
 }
 
 /* Automatic class generation: end */
