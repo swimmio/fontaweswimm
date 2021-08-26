@@ -521,83 +521,88 @@
 }
 
 
-.icon-time:before {
+.icon-text-bullet:before {
   content: "\e963";
 }
 
 
-.icon-trash-fill:before {
+.icon-time:before {
   content: "\e964";
 }
 
 
-.icon-trash-outline:before {
+.icon-trash-fill:before {
   content: "\e965";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-outline:before {
   content: "\e966";
 }
 
 
-.icon-twitter:before {
+.icon-tutorial:before {
   content: "\e967";
 }
 
 
-.icon-ul:before {
+.icon-twitter:before {
   content: "\e968";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e969";
 }
 
 
-.icon-update:before {
+.icon-unavailable:before {
   content: "\e96a";
 }
 
 
-.icon-updated:before {
+.icon-update:before {
   content: "\e96b";
 }
 
 
-.icon-upload:before {
+.icon-updated:before {
   content: "\e96c";
 }
 
 
-.icon-video:before {
+.icon-upload:before {
   content: "\e96d";
 }
 
 
-.icon-warning:before {
+.icon-video:before {
   content: "\e96e";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e96f";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e970";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e971";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e972";
+}
+
+
+.icon-workspace:before {
+  content: "\e973";
 }
 
 /* Automatic class generation: end */
