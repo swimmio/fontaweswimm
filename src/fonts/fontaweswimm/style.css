@@ -626,28 +626,33 @@
 }
 
 
-.icon-warning:before {
+.icon-warning-fill:before {
   content: "\e978";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e979";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e97a";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e97b";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e97c";
+}
+
+
+.icon-workspace:before {
+  content: "\e97d";
 }
 
 /* Automatic class generation: end */
