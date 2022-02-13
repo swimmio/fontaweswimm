@@ -631,53 +631,58 @@
 }
 
 
-.icon-update:before {
+.icon-union:before {
   content: "\e979";
 }
 
 
-.icon-updated:before {
+.icon-update:before {
   content: "\e97a";
 }
 
 
-.icon-upload:before {
+.icon-updated:before {
   content: "\e97b";
 }
 
 
-.icon-video:before {
+.icon-upload:before {
   content: "\e97c";
 }
 
 
-.icon-warning-fill:before {
+.icon-video:before {
   content: "\e97d";
 }
 
 
-.icon-warning:before {
+.icon-warning-fill:before {
   content: "\e97e";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e97f";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e980";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e981";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e982";
+}
+
+
+.icon-workspace:before {
+  content: "\e983";
 }
 
 /* Automatic class generation: end */
