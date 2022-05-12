@@ -2,7 +2,7 @@
 id: gX4HLtSjzpbsKwyUS7oa
 name: Adding icons to FontAweswimm
 file_version: 1.0.2
-app_version: 0.7.4-0
+app_version: 0.8.4-0
 ---
 
 # Intro
@@ -42,13 +42,15 @@ In FontAweswimm, we add the icons svg's straight out of the mockups in Figma, ru
 3.  Update The `📄 package.json` file with a new patch version
     
 4.  Make sure that the new icon has a proper name, commit the icon and push it to github  
-    You'll notice that when you create the ps a github action will start and build the projects
+    You'll notice that when you create the pr a github action will start and build the projects
     
-5.  Merge your PR
+5.  wait for this action to finish and make sure it changes the font files before merging your PR!
     
-6.  after build you need to set a new [release version in GitHub](https://github.com/swimmio/fontaweswimm/releases) and point it to your branch
+6.  Merge your PR
     
-7.  Now you can pull the branch locally and use your new icon 👑
+7.  after build you need to set a new [release version in GitHub](https://github.com/swimmio/fontaweswimm/releases) and point it to your branch
+    
+8.  Now you can pull the branch locally and use your new icon 👑
     
 
 ![image.png](https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2FveezvxCuzpPrRLLXWD2E%2Fimg%2F2903c8c1-12d1-4b2f-8de4-a2fa054178e5.png?alt=media&token=daada0db-89f2-45f1-8fd4-fba07d349308)
