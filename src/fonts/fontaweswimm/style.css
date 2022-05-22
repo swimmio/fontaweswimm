@@ -186,157 +186,157 @@
 }
 
 
-.icon-drag:before {
+.icon-drag-handle-options:before {
   content: "\e920";
 }
 
 
-.icon-duplicate:before {
+.icon-drag:before {
   content: "\e921";
 }
 
 
-.icon-edit-fill:before {
+.icon-duplicate:before {
   content: "\e922";
 }
 
 
-.icon-edit-outline:before {
+.icon-edit-fill:before {
   content: "\e923";
 }
 
 
-.icon-editing:before {
+.icon-edit-outline:before {
   content: "\e924";
 }
 
 
-.icon-email:before {
+.icon-editing:before {
   content: "\e925";
 }
 
 
-.icon-emoji:before {
+.icon-email:before {
   content: "\e926";
 }
 
 
-.icon-enter:before {
+.icon-emoji:before {
   content: "\e927";
 }
 
 
-.icon-expand-arrow:before {
+.icon-enter:before {
   content: "\e928";
 }
 
 
-.icon-expand:before {
+.icon-expand-arrow:before {
   content: "\e929";
 }
 
 
-.icon-explore:before {
+.icon-expand:before {
   content: "\e92a";
 }
 
 
-.icon-eye:before {
+.icon-explore:before {
   content: "\e92b";
 }
 
 
-.icon-facebook:before {
+.icon-eye:before {
   content: "\e92c";
 }
 
 
-.icon-file-internal:before {
+.icon-facebook:before {
   content: "\e92d";
 }
 
 
-.icon-file:before {
+.icon-file-internal:before {
   content: "\e92e";
 }
 
 
-.icon-flash:before {
+.icon-file:before {
   content: "\e92f";
 }
 
 
-.icon-folder-internal:before {
+.icon-flash:before {
   content: "\e930";
 }
 
 
-.icon-folder-open:before {
+.icon-folder-internal:before {
   content: "\e931";
 }
 
 
-.icon-folder:before {
+.icon-folder-open:before {
   content: "\e932";
 }
 
 
-.icon-gerrit:before {
+.icon-folder:before {
   content: "\e933";
 }
 
 
-.icon-giphy:before {
+.icon-gerrit:before {
   content: "\e934";
 }
 
 
-.icon-git-integrated:before {
+.icon-giphy:before {
   content: "\e935";
 }
 
 
-.icon-git-not-integrated:before {
+.icon-git-integrated:before {
   content: "\e936";
 }
 
 
-.icon-github:before {
+.icon-git-not-integrated:before {
   content: "\e937";
 }
 
 
-.icon-gitlab:before {
+.icon-github:before {
   content: "\e938";
 }
 
 
-.icon-globe:before {
+.icon-gitlab:before {
   content: "\e939";
 }
 
 
-.icon-help:before {
+.icon-globe:before {
   content: "\e93a";
 }
 
 
-.icon-home:before {
+.icon-help:before {
   content: "\e93b";
 }
 
 
-.icon-hooray:before {
+.icon-home:before {
   content: "\e93c";
 }
 
 
-.icon-hourglass:before {
+.icon-hooray:before {
   content: "\e93d";
 }
 
 
-.icon-icon-drag-handle-options:before {
+.icon-hourglass:before {
   content: "\e93e";
 }
 
