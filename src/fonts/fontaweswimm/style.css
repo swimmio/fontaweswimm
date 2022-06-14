@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'fontaweswimm';
-  src: url('fonts/fontaweswimm.ttf') format('truetype'),
-    url('fonts/fontaweswimm.woff') format('woff'),
-    url('fonts/fontaweswimm.svg') format('svg');
+  font-family: "fontaweswimm";
+  src: url("fonts/fontaweswimm.ttf") format("truetype"),
+    url("fonts/fontaweswimm.woff") format("woff"),
+    url("fonts/fontaweswimm.svg") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^='icon-'],
-[class*=' icon-'] {
+[class^="icon-"],
+[class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'fontaweswimm' !important;
+  font-family: "fontaweswimm" !important;
   speak: never;
   font-style: normal;
   /* font-weight: normal; */
@@ -30,756 +30,605 @@
   content: "\e900";
 }
 
-
 .icon-add:before {
   content: "\e901";
 }
-
 
 .icon-arrow-down:before {
   content: "\e902";
 }
 
-
 .icon-arrow-left:before {
   content: "\e903";
 }
-
 
 .icon-arrow-next-down:before {
   content: "\e904";
 }
 
-
 .icon-arrow-next-up:before {
   content: "\e905";
 }
-
 
 .icon-arrow-right:before {
   content: "\e906";
 }
 
-
 .icon-arrow-up:before {
   content: "\e907";
 }
-
 
 .icon-assign:before {
   content: "\e908";
 }
 
-
 .icon-back-browsing:before {
   content: "\e909";
 }
-
 
 .icon-bell:before {
   content: "\e90a";
 }
 
-
 .icon-bitbucket:before {
   content: "\e90b";
 }
-
 
 .icon-bold:before {
   content: "\e90c";
 }
 
-
 .icon-branch:before {
   content: "\e90d";
 }
-
 
 .icon-briefcase:before {
   content: "\e90e";
 }
 
-
 .icon-calendar:before {
   content: "\e90f";
 }
-
 
 .icon-chat:before {
   content: "\e910";
 }
 
-
 .icon-check:before {
   content: "\e911";
 }
-
 
 .icon-close:before {
   content: "\e912";
 }
 
-
 .icon-code-fill:before {
   content: "\e913";
 }
-
 
 .icon-collapse-arrow:before {
   content: "\e914";
 }
 
-
 .icon-commit-sha:before {
   content: "\e915";
 }
-
 
 .icon-community:before {
   content: "\e916";
 }
 
-
 .icon-copy:before {
   content: "\e917";
 }
-
 
 .icon-credit-card:before {
   content: "\e918";
 }
 
-
 .icon-crown:before {
   content: "\e919";
 }
-
 
 .icon-database:before {
   content: "\e91a";
 }
 
-
 .icon-deleted:before {
   content: "\e91b";
 }
-
 
 .icon-dev:before {
   content: "\e91c";
 }
 
-
 .icon-discard:before {
   content: "\e91d";
 }
-
 
 .icon-doc-files-changed:before {
   content: "\e91e";
 }
 
-
 .icon-doc-request:before {
   content: "\e91f";
 }
-
 
 .icon-doc:before {
   content: "\e920";
 }
 
-
 .icon-drag-handle-options:before {
   content: "\e921";
 }
-
 
 .icon-drag:before {
   content: "\e922";
 }
 
-
 .icon-duplicate:before {
   content: "\e923";
 }
-
 
 .icon-edit-fill:before {
   content: "\e924";
 }
 
-
 .icon-edit-outline:before {
   content: "\e925";
 }
-
 
 .icon-editing:before {
   content: "\e926";
 }
 
-
 .icon-email:before {
   content: "\e927";
 }
-
 
 .icon-emoji:before {
   content: "\e928";
 }
 
-
 .icon-enter:before {
   content: "\e929";
 }
-
 
 .icon-expand-arrow:before {
   content: "\e92a";
 }
 
-
 .icon-expand:before {
   content: "\e92b";
 }
-
 
 .icon-explore:before {
   content: "\e92c";
 }
 
-
 .icon-eye:before {
   content: "\e92d";
 }
-
 
 .icon-facebook:before {
   content: "\e92e";
 }
 
-
 .icon-file-internal:before {
   content: "\e92f";
 }
-
 
 .icon-file:before {
   content: "\e930";
 }
 
-
 .icon-flash:before {
   content: "\e931";
 }
-
 
 .icon-folder-internal:before {
   content: "\e932";
 }
 
-
 .icon-folder-open:before {
   content: "\e933";
 }
-
 
 .icon-folder:before {
   content: "\e934";
 }
 
-
 .icon-gerrit:before {
   content: "\e935";
 }
-
 
 .icon-giphy:before {
   content: "\e936";
 }
 
-
 .icon-git-integrated:before {
   content: "\e937";
 }
-
 
 .icon-git-not-integrated:before {
   content: "\e938";
 }
 
-
 .icon-github:before {
   content: "\e939";
 }
-
 
 .icon-gitlab:before {
   content: "\e93a";
 }
 
-
 .icon-globe:before {
   content: "\e93b";
 }
-
 
 .icon-help:before {
   content: "\e93c";
 }
 
-
 .icon-hint:before {
   content: "\e93d";
 }
-
 
 .icon-home:before {
   content: "\e93e";
 }
 
-
 .icon-hooray:before {
   content: "\e93f";
 }
-
 
 .icon-hourglass:before {
   content: "\e940";
 }
 
-
 .icon-image:before {
   content: "\e941";
 }
-
 
 .icon-import:before {
   content: "\e942";
 }
 
-
 .icon-info-fill:before {
   content: "\e943";
 }
-
 
 .icon-instagram:before {
   content: "\e944";
 }
 
-
 .icon-integrations:before {
   content: "\e945";
 }
-
 
 .icon-interactive:before {
   content: "\e946";
 }
 
-
 .icon-ios:before {
   content: "\e947";
 }
-
 
 .icon-italic:before {
   content: "\e948";
 }
 
-
 .icon-keyboard-shortcut:before {
   content: "\e949";
 }
-
 
 .icon-lifebuoy-outline:before {
   content: "\e94a";
 }
 
-
 .icon-like:before {
   content: "\e94b";
 }
-
 
 .icon-liked:before {
   content: "\e94c";
 }
 
-
 .icon-link:before {
   content: "\e94d";
 }
-
 
 .icon-linkedin:before {
   content: "\e94e";
 }
 
-
 .icon-linux:before {
   content: "\e94f";
 }
-
 
 .icon-locked:before {
   content: "\e950";
 }
 
-
 .icon-long-arrow-left:before {
   content: "\e951";
 }
-
 
 .icon-long-arrow-right:before {
   content: "\e952";
 }
 
-
 .icon-magic-full-stars:before {
   content: "\e953";
 }
-
 
 .icon-magic:before {
   content: "\e954";
 }
 
-
 .icon-markdown:before {
   content: "\e955";
 }
-
 
 .icon-merged-pr:before {
   content: "\e956";
 }
 
-
 .icon-minimize:before {
   content: "\e957";
 }
-
 
 .icon-more-slim:before {
   content: "\e958";
 }
 
-
 .icon-more:before {
   content: "\e959";
 }
-
 
 .icon-next-browsing:before {
   content: "\e95a";
 }
 
-
 .icon-not-allowed:before {
   content: "\e95b";
 }
-
 
 .icon-ol:before {
   content: "\e95c";
 }
 
-
 .icon-outbound-link:before {
   content: "\e95d";
 }
-
 
 .icon-overview:before {
   content: "\e95e";
 }
 
-
 .icon-pencil:before {
   content: "\e95f";
 }
-
 
 .icon-pending:before {
   content: "\e960";
 }
 
-
 .icon-pin:before {
   content: "\e961";
 }
-
 
 .icon-plan:before {
   content: "\e962";
 }
 
-
 .icon-plans:before {
   content: "\e963";
 }
-
 
 .icon-play-outline:before {
   content: "\e964";
 }
 
-
 .icon-playlist:before {
   content: "\e965";
 }
-
 
 .icon-plugins:before {
   content: "\e966";
 }
 
-
 .icon-pr:before {
   content: "\e967";
 }
-
 
 .icon-private:before {
   content: "\e968";
 }
 
-
 .icon-refresh:before {
   content: "\e969";
 }
-
 
 .icon-repo-provider:before {
   content: "\e96a";
 }
 
-
 .icon-request-demo:before {
   content: "\e96b";
 }
-
 
 .icon-resize-expand:before {
   content: "\e96c";
 }
 
-
 .icon-resize-shrink:before {
   content: "\e96d";
 }
-
 
 .icon-reviewer:before {
   content: "\e96e";
 }
 
-
 .icon-search:before {
   content: "\e96f";
 }
-
 
 .icon-send:before {
   content: "\e970";
 }
 
-
 .icon-settings2:before {
   content: "\e971";
 }
-
 
 .icon-share:before {
   content: "\e972";
 }
 
-
 .icon-shortcut:before {
   content: "\e973";
 }
-
 
 .icon-shrink:before {
   content: "\e974";
 }
 
-
 .icon-signout:before {
   content: "\e975";
 }
-
 
 .icon-simplified-code:before {
   content: "\e976";
 }
 
-
 .icon-slack:before {
   content: "\e977";
 }
-
 
 .icon-snippet-highlight:before {
   content: "\e978";
 }
 
-
 .icon-sort:before {
   content: "\e979";
 }
-
 
 .icon-star-filled:before {
   content: "\e97a";
 }
 
-
 .icon-star-outline:before {
   content: "\e97b";
 }
-
 
 .icon-start-outline:before {
   content: "\e97c";
 }
 
-
 .icon-stats:before {
   content: "\e97d";
 }
-
 
 .icon-strike:before {
   content: "\e97e";
 }
 
-
 .icon-sync:before {
   content: "\e97f";
 }
-
 
 .icon-table:before {
   content: "\e980";
 }
 
-
 .icon-task:before {
   content: "\e981";
 }
-
 
 .icon-team:before {
   content: "\e982";
 }
 
-
 .icon-template:before {
   content: "\e983";
 }
-
 
 .icon-terminal:before {
   content: "\e984";
 }
 
-
 .icon-text-bullet:before {
   content: "\e985";
 }
-
 
 .icon-time:before {
   content: "\e986";
 }
 
-
 .icon-trash-fill:before {
   content: "\e987";
 }
-
 
 .icon-trash-outline:before {
   content: "\e988";
 }
 
-
 .icon-tutorial:before {
   content: "\e989";
 }
-
 
 .icon-twitter:before {
   content: "\e98a";
 }
 
-
 .icon-ul:before {
   content: "\e98b";
 }
-
 
 .icon-unavailable:before {
   content: "\e98c";
 }
 
-
 .icon-union:before {
   content: "\e98d";
 }
-
 
 .icon-update:before {
   content: "\e98e";
 }
 
-
 .icon-updated:before {
   content: "\e98f";
 }
-
 
 .icon-upload:before {
   content: "\e990";
 }
 
-
 .icon-video:before {
   content: "\e991";
 }
-
 
 .icon-warning-fill:before {
   content: "\e992";
 }
 
-
 .icon-warning:before {
   content: "\e993";
 }
-
 
 .icon-window-unavailable:before {
   content: "\e994";
 }
 
-
 .icon-windows:before {
   content: "\e995";
 }
 
-
 .icon-workflow:before {
   content: "\e996";
 }
-
 
 .icon-workspace:before {
   content: "\e997";
