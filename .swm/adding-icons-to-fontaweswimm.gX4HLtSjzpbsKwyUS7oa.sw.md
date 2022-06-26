@@ -2,18 +2,24 @@
 id: gX4HLtSjzpbsKwyUS7oa
 name: Adding icons to FontAweswimm
 file_version: 1.0.2
-app_version: 0.8.4-0
+app_version: 0.9.0-2
 ---
 
 # Intro
 
 In Swimm, We use lots of icons to express ourselves :)
 
+
+
+
 ![image.png](https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2FveezvxCuzpPrRLLXWD2E%2Fimg%2F64d7db2b-0e78-4199-8b57-878fdaca56c1.png?alt=media&token=14051dbc-dac0-4a0f-a070-4937d530820c)
+
+
+
 
 to see the icons that we already have, open in your browser the file `📄 src/fonts/fontaweswimm/demo.html`
 
-Sometimes, @Ilana or @Shuju adds a new Icon in the mockup that should be included in a new feature we develop.
+Sometimes, @Emiliya or @Shuju adds a new Icon in the mockup that should be included in a new feature we develop.
 
 ## FontAweswimm
 
@@ -27,8 +33,13 @@ In FontAweswimm, we add the icons svg's straight out of the mockups in Figma, ru
 
 1.  Go to Figma, select the new icon to add and export it:
     
+    
+
+    
     ![image.png](https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2FveezvxCuzpPrRLLXWD2E%2Fimg%2Ff7c35cfe-0bcd-4573-befa-2fac26988dd2.png?alt=media&token=921b530e-b797-46bb-86d4-fb2c0053d5ae)
     
+    
+
     1.  Select The icon inside the mockup page
         
     2.  On the left SideBar, make sure that you selected the entire icon, not only a part of it
@@ -53,17 +64,21 @@ In FontAweswimm, we add the icons svg's straight out of the mockups in Figma, ru
 8.  Now you can pull the branch locally and use your new icon 👑
     
 
+
+
+
 ![image.png](https://firebasestorage.googleapis.com/v0/b/swimmio-content/o/repositories%2FveezvxCuzpPrRLLXWD2E%2Fimg%2F2903c8c1-12d1-4b2f-8de4-a2fa054178e5.png?alt=media&token=daada0db-89f2-45f1-8fd4-fba07d349308)
+
+
+
 
 ## The build process workflow
 
 For a better understanding of how the iconset is being generated, you can always look at the `📄 .github/workflows/build_fontaweswimm.yml` workflow file and the conversion library that we use: `📄 src/scripts/icons2fontaweswimm/original_project_readme.md`
 
-<br/>
+## Using fontaweswimm in Swimm
 
-## Using fontaswimm in swimm
-
-In order to use the new icons you added in our swimm app you need to install the new version you just created.
+In order to use the new icons you added in our Swimm app you need to install the new version you just created.
 
 Good Luck :)
 
