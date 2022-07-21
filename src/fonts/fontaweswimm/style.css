@@ -741,138 +741,143 @@
 }
 
 
-.icon-table:before {
+.icon-tab:before {
   content: "\e98f";
 }
 
 
-.icon-task:before {
+.icon-table:before {
   content: "\e990";
 }
 
 
-.icon-team:before {
+.icon-task:before {
   content: "\e991";
 }
 
 
-.icon-template:before {
+.icon-team:before {
   content: "\e992";
 }
 
 
-.icon-terminal:before {
+.icon-template:before {
   content: "\e993";
 }
 
 
-.icon-text-bullet:before {
+.icon-terminal:before {
   content: "\e994";
 }
 
 
-.icon-text-headline:before {
+.icon-text-bullet:before {
   content: "\e995";
 }
 
 
-.icon-text-headline2:before {
+.icon-text-headline:before {
   content: "\e996";
 }
 
 
-.icon-text-headline3:before {
+.icon-text-headline2:before {
   content: "\e997";
 }
 
 
-.icon-time:before {
+.icon-text-headline3:before {
   content: "\e998";
 }
 
 
-.icon-trash-fill:before {
+.icon-time:before {
   content: "\e999";
 }
 
 
-.icon-trash-outline:before {
+.icon-trash-fill:before {
   content: "\e99a";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-outline:before {
   content: "\e99b";
 }
 
 
-.icon-twitter:before {
+.icon-tutorial:before {
   content: "\e99c";
 }
 
 
-.icon-ul:before {
+.icon-twitter:before {
   content: "\e99d";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e99e";
 }
 
 
-.icon-union:before {
+.icon-unavailable:before {
   content: "\e99f";
 }
 
 
-.icon-update:before {
+.icon-union:before {
   content: "\e9a0";
 }
 
 
-.icon-updated:before {
+.icon-update:before {
   content: "\e9a1";
 }
 
 
-.icon-upload:before {
+.icon-updated:before {
   content: "\e9a2";
 }
 
 
-.icon-video:before {
+.icon-upload:before {
   content: "\e9a3";
 }
 
 
-.icon-warning-fill:before {
+.icon-video:before {
   content: "\e9a4";
 }
 
 
-.icon-warning:before {
+.icon-warning-fill:before {
   content: "\e9a5";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e9a6";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e9a7";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e9a8";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e9a9";
+}
+
+
+.icon-workspace:before {
+  content: "\e9aa";
 }
 
 /* Automatic class generation: end */
