@@ -940,4 +940,9 @@
   content: "\e9b6";
 }
 
+
+.icon-youtube:before {
+  content: "\e9b7";
+}
+
 /* Automatic class generation: end */
