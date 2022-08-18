@@ -811,138 +811,143 @@
 }
 
 
-.icon-task:before {
+.icon-tag:before {
   content: "\e99d";
 }
 
 
-.icon-team:before {
+.icon-task:before {
   content: "\e99e";
 }
 
 
-.icon-template:before {
+.icon-team:before {
   content: "\e99f";
 }
 
 
-.icon-terminal:before {
+.icon-template:before {
   content: "\e9a0";
 }
 
 
-.icon-text-bullet:before {
+.icon-terminal:before {
   content: "\e9a1";
 }
 
 
-.icon-text-headline:before {
+.icon-text-bullet:before {
   content: "\e9a2";
 }
 
 
-.icon-text-headline2:before {
+.icon-text-headline:before {
   content: "\e9a3";
 }
 
 
-.icon-text-headline3:before {
+.icon-text-headline2:before {
   content: "\e9a4";
 }
 
 
-.icon-time:before {
+.icon-text-headline3:before {
   content: "\e9a5";
 }
 
 
-.icon-trash-fill:before {
+.icon-time:before {
   content: "\e9a6";
 }
 
 
-.icon-trash-outline:before {
+.icon-trash-fill:before {
   content: "\e9a7";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-outline:before {
   content: "\e9a8";
 }
 
 
-.icon-twitter:before {
+.icon-tutorial:before {
   content: "\e9a9";
 }
 
 
-.icon-ul:before {
+.icon-twitter:before {
   content: "\e9aa";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e9ab";
 }
 
 
-.icon-union:before {
+.icon-unavailable:before {
   content: "\e9ac";
 }
 
 
-.icon-update:before {
+.icon-union:before {
   content: "\e9ad";
 }
 
 
-.icon-updated:before {
+.icon-update:before {
   content: "\e9ae";
 }
 
 
-.icon-upload:before {
+.icon-updated:before {
   content: "\e9af";
 }
 
 
-.icon-video:before {
+.icon-upload:before {
   content: "\e9b0";
 }
 
 
-.icon-warning-fill:before {
+.icon-video:before {
   content: "\e9b1";
 }
 
 
-.icon-warning:before {
+.icon-warning-fill:before {
   content: "\e9b2";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e9b3";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e9b4";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e9b5";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e9b6";
 }
 
 
-.icon-youtube:before {
+.icon-workspace:before {
   content: "\e9b7";
+}
+
+
+.icon-youtube:before {
+  content: "\e9b8";
 }
 
 /* Automatic class generation: end */
