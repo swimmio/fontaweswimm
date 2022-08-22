@@ -32,10 +32,6 @@ In FontAweswimm, we add the icons svg's straight out of the mockups in Figma, ru
 
 1.  Go to Figma, select the new icon to add and export it:
     
-    
-
-
-
     1.  Select The icon inside the mockup page
         
     2.  On the left SideBar, make sure that you selected the entire icon, not only a part of it
