@@ -926,43 +926,48 @@
 }
 
 
-.icon-video:before {
+.icon-video-fill:before {
   content: "\e9b4";
 }
 
 
-.icon-warning-fill:before {
+.icon-video:before {
   content: "\e9b5";
 }
 
 
-.icon-warning:before {
+.icon-warning-fill:before {
   content: "\e9b6";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e9b7";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e9b8";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e9b9";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e9ba";
 }
 
 
-.icon-youtube:before {
+.icon-workspace:before {
   content: "\e9bb";
+}
+
+
+.icon-youtube:before {
+  content: "\e9bc";
 }
 
 /* Automatic class generation: end */
