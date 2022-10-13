@@ -741,258 +741,263 @@
 }
 
 
-.icon-search:before {
+.icon-robot:before {
   content: "\e98f";
 }
 
 
-.icon-security-shield:before {
+.icon-search:before {
   content: "\e990";
 }
 
 
-.icon-send:before {
+.icon-security-shield:before {
   content: "\e991";
 }
 
 
-.icon-settings2:before {
+.icon-send:before {
   content: "\e992";
 }
 
 
-.icon-share:before {
+.icon-settings2:before {
   content: "\e993";
 }
 
 
-.icon-shortcut:before {
+.icon-share:before {
   content: "\e994";
 }
 
 
-.icon-shrink:before {
+.icon-shortcut:before {
   content: "\e995";
 }
 
 
-.icon-signout:before {
+.icon-shrink:before {
   content: "\e996";
 }
 
 
-.icon-simplified-code:before {
+.icon-signout:before {
   content: "\e997";
 }
 
 
-.icon-slack:before {
+.icon-simplified-code:before {
   content: "\e998";
 }
 
 
-.icon-snippet-highlight:before {
+.icon-slack:before {
   content: "\e999";
 }
 
 
-.icon-sort:before {
+.icon-snippet-highlight:before {
   content: "\e99a";
 }
 
 
-.icon-star-filled:before {
+.icon-sort:before {
   content: "\e99b";
 }
 
 
-.icon-star-outline:before {
+.icon-star-filled:before {
   content: "\e99c";
 }
 
 
-.icon-start-outline:before {
+.icon-star-outline:before {
   content: "\e99d";
 }
 
 
-.icon-stats:before {
+.icon-start-outline:before {
   content: "\e99e";
 }
 
 
-.icon-strike:before {
+.icon-stats:before {
   content: "\e99f";
 }
 
 
-.icon-sync-code:before {
+.icon-strike:before {
   content: "\e9a0";
 }
 
 
-.icon-sync-token:before {
+.icon-sync-code:before {
   content: "\e9a1";
 }
 
 
-.icon-sync:before {
+.icon-sync-token:before {
   content: "\e9a2";
 }
 
 
-.icon-tab:before {
+.icon-sync:before {
   content: "\e9a3";
 }
 
 
-.icon-table:before {
+.icon-tab:before {
   content: "\e9a4";
 }
 
 
-.icon-tag:before {
+.icon-table:before {
   content: "\e9a5";
 }
 
 
-.icon-task:before {
+.icon-tag:before {
   content: "\e9a6";
 }
 
 
-.icon-team:before {
+.icon-task:before {
   content: "\e9a7";
 }
 
 
-.icon-template:before {
+.icon-team:before {
   content: "\e9a8";
 }
 
 
-.icon-terminal:before {
+.icon-template:before {
   content: "\e9a9";
 }
 
 
-.icon-text-bullet:before {
+.icon-terminal:before {
   content: "\e9aa";
 }
 
 
-.icon-text-headline:before {
+.icon-text-bullet:before {
   content: "\e9ab";
 }
 
 
-.icon-text-headline2:before {
+.icon-text-headline:before {
   content: "\e9ac";
 }
 
 
-.icon-text-headline3:before {
+.icon-text-headline2:before {
   content: "\e9ad";
 }
 
 
-.icon-time:before {
+.icon-text-headline3:before {
   content: "\e9ae";
 }
 
 
-.icon-trash-fill:before {
+.icon-time:before {
   content: "\e9af";
 }
 
 
-.icon-trash-outline:before {
+.icon-trash-fill:before {
   content: "\e9b0";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-outline:before {
   content: "\e9b1";
 }
 
 
-.icon-twitter:before {
+.icon-tutorial:before {
   content: "\e9b2";
 }
 
 
-.icon-ul:before {
+.icon-twitter:before {
   content: "\e9b3";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e9b4";
 }
 
 
-.icon-union:before {
+.icon-unavailable:before {
   content: "\e9b5";
 }
 
 
-.icon-update:before {
+.icon-union:before {
   content: "\e9b6";
 }
 
 
-.icon-updated:before {
+.icon-update:before {
   content: "\e9b7";
 }
 
 
-.icon-upload:before {
+.icon-updated:before {
   content: "\e9b8";
 }
 
 
-.icon-video-fill:before {
+.icon-upload:before {
   content: "\e9b9";
 }
 
 
-.icon-video:before {
+.icon-video-fill:before {
   content: "\e9ba";
 }
 
 
-.icon-warning-fill:before {
+.icon-video:before {
   content: "\e9bb";
 }
 
 
-.icon-warning:before {
+.icon-warning-fill:before {
   content: "\e9bc";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e9bd";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e9be";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e9bf";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e9c0";
 }
 
 
-.icon-youtube:before {
+.icon-workspace:before {
   content: "\e9c1";
+}
+
+
+.icon-youtube:before {
+  content: "\e9c2";
 }
 
 /* Automatic class generation: end */
