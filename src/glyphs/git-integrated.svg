@@ -1,10 +1,13 @@
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7.99996 14.6667C7.99996 14.6667 13.3333 12 13.3333 8.00004V3.33337L7.99996 1.33337L2.66663 3.33337V8.00004C2.66663 12 7.99996 14.6667 7.99996 14.6667Z" fill="url(#paint0_radial_1405_165262)"/>
-<path d="M6 8.33333L8.33333 4V7H10.6667L7.33333 11.6667L8 8.33333H6Z" fill="white"/>
-<defs>
-<radialGradient id="paint0_radial_1405_165262" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(11.5851 -0.90483) rotate(120.66) scale(17.0242 15.3754)">
-<stop offset="0.3043" stop-color="#B958F0"/>
-<stop offset="0.8153" stop-color="#0C68FF"/>
-</radialGradient>
-</defs>
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M6 11C6 11 10 9 10 6V2.5L6 1L2 2.5V6C2 9 6 11 6 11Z" fill="currentColor"/>
+  <g clip-path="url(#clip0_1004_38488)">
+   <path fill-rule="evenodd" clip-rule="evenodd" d="M8.21339 4.41161C8.2622 4.46043 8.2622 4.53957 8.21339 4.58839L5.46339 7.33839C5.43995 7.36183 5.40815 7.375 5.375 7.375C5.34185 7.375 5.31005 7.36183 5.28661 7.33839L4.03661 6.08839C3.9878 6.03957 3.9878 5.96043 4.03661 5.91161C4.08543 5.8628 4.16457 5.8628 4.21339 5.91161L5.375 7.07322L8.03661 4.41161C8.08543 4.3628 8.16457 4.3628 8.21339 4.41161Z" fill="white" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  </g>
+  <defs>
+    <clipPath id="clip0_1004_38488">
+      <rect width="6" height="6" fill="white" transform="translate(3.125 3)"/>
+    </clipPath>
+  </defs>
 </svg>
