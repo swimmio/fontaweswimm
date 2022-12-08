@@ -1056,48 +1056,53 @@
 }
 
 
-.icon-video-fill:before {
+.icon-vertical-expand:before {
   content: "\e9ce";
 }
 
 
-.icon-video:before {
+.icon-video-fill:before {
   content: "\e9cf";
 }
 
 
-.icon-warning-fill:before {
+.icon-video:before {
   content: "\e9d0";
 }
 
 
-.icon-warning:before {
+.icon-warning-fill:before {
   content: "\e9d1";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e9d2";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e9d3";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e9d4";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e9d5";
 }
 
 
-.icon-youtube:before {
+.icon-workspace:before {
   content: "\e9d6";
+}
+
+
+.icon-youtube:before {
+  content: "\e9d7";
 }
 
 /* Automatic class generation: end */
