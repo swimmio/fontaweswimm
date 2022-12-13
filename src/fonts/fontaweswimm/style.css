@@ -391,57 +391,57 @@
 }
 
 
-.icon-flow-chart:before {
+.icon-folder-internal:before {
   content: "\e949";
 }
 
 
-.icon-folder-internal:before {
+.icon-folder-open:before {
   content: "\e94a";
 }
 
 
-.icon-folder-open:before {
+.icon-folder:before {
   content: "\e94b";
 }
 
 
-.icon-folder:before {
+.icon-gerrit:before {
   content: "\e94c";
 }
 
 
-.icon-gerrit:before {
+.icon-giphy:before {
   content: "\e94d";
 }
 
 
-.icon-giphy:before {
+.icon-git-integrated:before {
   content: "\e94e";
 }
 
 
-.icon-git-integrated:before {
+.icon-git-not-integrated:before {
   content: "\e94f";
 }
 
 
-.icon-git-not-integrated:before {
+.icon-github:before {
   content: "\e950";
 }
 
 
-.icon-github:before {
+.icon-gitlab:before {
   content: "\e951";
 }
 
 
-.icon-gitlab:before {
+.icon-globe:before {
   content: "\e952";
 }
 
 
-.icon-globe:before {
+.icon-graph-flow:before {
   content: "\e953";
 }
 
