@@ -8,6 +8,10 @@ jobs:
   should_run_commit_test:
     runs-on: macos-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: Is changed files in glyphs
         id: should-run-commit
         uses: tj-actions/changed-files@v35.4.4
@@ -21,7 +25,7 @@ jobs:
     runs-on: macos-latest
     needs: should_run_commit_test
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:
