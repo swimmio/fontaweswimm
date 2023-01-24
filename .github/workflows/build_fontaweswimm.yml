@@ -2,14 +2,24 @@ name: Build Fontaweswimm
 
 on:
   workflow_dispatch:
-    paths:
-      - src/glyphs/**
   pull_request:
 
 jobs:
-  build_font:
-    # runs-on: ubuntu-latest
+  should_run_commit_test:
     runs-on: macos-latest
+    steps:
+      - name: Is changed files in glyphs
+        id: should-run-commit
+        uses: tj-actions/changed-files@v35.4.4
+        with:
+          files: |
+            src/glyphs/**
+    outputs:
+      should_run_commit: ${{ steps.should-run-commit.outputs.any_modified == 'true' || github.event_name == 'workflow_dispatch' }}
+
+  build_font:
+    runs-on: macos-latest
+    needs: should_run_commit_test
     steps:
       - uses: actions/checkout@v2
       - name: Set up Python 3.8
@@ -27,6 +37,7 @@ jobs:
         shell: bash
         run: fontforge -script src/scripts/icons2fontaweswimm/icons2fontaweswimm.py src/scripts/icons2fontaweswimm/config/config.json src/glyphs/ src/scripts/icons2fontaweswimm/templates -o src/fonts/fontaweswimm
       - name: Commit changes
+        if: ${{ always() && needs.should_run_commit_test.outputs.should_run_commit == 'true' }}
         uses: EndBug/add-and-commit@v4
         with:
           message: "Automatically build Fontaweswimm!"
