@@ -1,8 +1,7 @@
 name: Build Fontaweswimm
 
 on:
-  workflow_dispatch:
-  pull_request:
+  push:
 
 jobs:
   build_font:
