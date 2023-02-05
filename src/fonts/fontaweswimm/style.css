@@ -1131,28 +1131,33 @@
 }
 
 
-.icon-window-unavailable:before {
+.icon-wave:before {
   content: "\e9dd";
 }
 
 
-.icon-windows:before {
+.icon-window-unavailable:before {
   content: "\e9de";
 }
 
 
-.icon-workflow:before {
+.icon-windows:before {
   content: "\e9df";
 }
 
 
-.icon-workspace:before {
+.icon-workflow:before {
   content: "\e9e0";
 }
 
 
-.icon-youtube:before {
+.icon-workspace:before {
   content: "\e9e1";
+}
+
+
+.icon-youtube:before {
+  content: "\e9e2";
 }
 
 /* Automatic class generation: end */
