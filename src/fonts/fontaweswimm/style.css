@@ -1001,253 +1001,263 @@
 }
 
 
-.icon-star-filled:before {
+.icon-split-view-horizontal:before {
   content: "\e9c3";
 }
 
 
-.icon-star-outline:before {
+.icon-split-view-vertical:before {
   content: "\e9c4";
 }
 
 
-.icon-stats:before {
+.icon-star-filled:before {
   content: "\e9c5";
 }
 
 
-.icon-strike:before {
+.icon-star-outline:before {
   content: "\e9c6";
 }
 
 
-.icon-sync-code:before {
+.icon-stats:before {
   content: "\e9c7";
 }
 
 
-.icon-sync-token:before {
+.icon-strike:before {
   content: "\e9c8";
 }
 
 
-.icon-sync:before {
+.icon-sync-code:before {
   content: "\e9c9";
 }
 
 
-.icon-table:before {
+.icon-sync-token:before {
   content: "\e9ca";
 }
 
 
-.icon-tag:before {
+.icon-sync:before {
   content: "\e9cb";
 }
 
 
-.icon-task:before {
+.icon-table:before {
   content: "\e9cc";
 }
 
 
-.icon-team-add:before {
+.icon-tag:before {
   content: "\e9cd";
 }
 
 
-.icon-team:before {
+.icon-task:before {
   content: "\e9ce";
 }
 
 
-.icon-template:before {
+.icon-team-add:before {
   content: "\e9cf";
 }
 
 
-.icon-terminal:before {
+.icon-team:before {
   content: "\e9d0";
 }
 
 
-.icon-text-bullet:before {
+.icon-template:before {
   content: "\e9d1";
 }
 
 
-.icon-text-headline:before {
+.icon-terminal:before {
   content: "\e9d2";
 }
 
 
-.icon-text-headline2:before {
+.icon-text-bullet:before {
   content: "\e9d3";
 }
 
 
-.icon-text-headline3:before {
+.icon-text-headline:before {
   content: "\e9d4";
 }
 
 
-.icon-time:before {
+.icon-text-headline2:before {
   content: "\e9d5";
 }
 
 
-.icon-topic-add:before {
+.icon-text-headline3:before {
   content: "\e9d6";
 }
 
 
-.icon-topic-api:before {
+.icon-time:before {
   content: "\e9d7";
 }
 
 
-.icon-topic-flow:before {
+.icon-topic-add:before {
   content: "\e9d8";
 }
 
 
-.icon-topic-general:before {
+.icon-topic-api:before {
   content: "\e9d9";
 }
 
 
-.icon-topic-integration:before {
+.icon-topic-flow:before {
   content: "\e9da";
 }
 
 
-.icon-topic-overview:before {
+.icon-topic-general:before {
   content: "\e9db";
 }
 
 
-.icon-trash-fill:before {
+.icon-topic-integration:before {
   content: "\e9dc";
 }
 
 
-.icon-trash-outline:before {
+.icon-topic-overview:before {
   content: "\e9dd";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-fill:before {
   content: "\e9de";
 }
 
 
-.icon-twitter:before {
+.icon-trash-outline:before {
   content: "\e9df";
 }
 
 
-.icon-ul:before {
+.icon-tutorial:before {
   content: "\e9e0";
 }
 
 
-.icon-unavailable-fill:before {
+.icon-twitter:before {
   content: "\e9e1";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e9e2";
 }
 
 
-.icon-underline:before {
+.icon-unavailable-fill:before {
   content: "\e9e3";
 }
 
 
-.icon-union:before {
+.icon-unavailable:before {
   content: "\e9e4";
 }
 
 
-.icon-unlink:before {
+.icon-underline:before {
   content: "\e9e5";
 }
 
 
-.icon-update:before {
+.icon-union:before {
   content: "\e9e6";
 }
 
 
-.icon-updated:before {
+.icon-unlink:before {
   content: "\e9e7";
 }
 
 
-.icon-upload:before {
+.icon-update:before {
   content: "\e9e8";
 }
 
 
-.icon-vertical-expand:before {
+.icon-updated:before {
   content: "\e9e9";
 }
 
 
-.icon-video-fill:before {
+.icon-upload:before {
   content: "\e9ea";
 }
 
 
-.icon-video:before {
+.icon-vertical-expand:before {
   content: "\e9eb";
 }
 
 
-.icon-vscode:before {
+.icon-video-fill:before {
   content: "\e9ec";
 }
 
 
-.icon-warning-fill:before {
+.icon-video:before {
   content: "\e9ed";
 }
 
 
-.icon-warning:before {
+.icon-vscode:before {
   content: "\e9ee";
 }
 
 
-.icon-wave:before {
+.icon-warning-fill:before {
   content: "\e9ef";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\e9f0";
 }
 
 
-.icon-windows:before {
+.icon-wave:before {
   content: "\e9f1";
 }
 
 
-.icon-workflow:before {
+.icon-window-unavailable:before {
   content: "\e9f2";
 }
 
 
-.icon-workspace:before {
+.icon-windows:before {
   content: "\e9f3";
 }
 
 
-.icon-youtube:before {
+.icon-workflow:before {
   content: "\e9f4";
+}
+
+
+.icon-workspace:before {
+  content: "\e9f5";
+}
+
+
+.icon-youtube:before {
+  content: "\e9f6";
 }
 
 /* Automatic class generation: end */
