@@ -1,7 +1,7 @@
 ---
 id: gX4HLtSjzpbsKwyUS7oa
-name: Adding icons to FontAweswimm
-file_version: 1.0.2
+title: Adding icons to FontAweswimm
+file_version: 1.1.3
 app_version: 0.9.4-5
 ---
 
@@ -9,16 +9,9 @@ app_version: 0.9.4-5
 
 In Swimm, We use lots of icons to express ourselves :)
 
-
-
-
-
-
-
-
 to see the icons that we already have, open in your browser the file `📄 src/fonts/fontaweswimm/demo.html`
 
-Sometimes, `👤 emiliya@swimm.io[17aUPi]` or `👤 Shuju Lin[sLEtk]` adds a new Icon in the mockup that should be included in a new feature we develop.
+Sometimes [[sym-mention:(fd7d4f3a-4b47-464e-b6da-58b8333e26fe|sLEtk)Shuju Lin]] adds a new Icon in the mockup that should be included in a new feature we develop.
 
 ## FontAweswimm
 
@@ -31,37 +24,29 @@ In FontAweswimm, we add the icons svg's straight out of the mockups in Figma, ru
 ## Steps to add a new Icon
 
 1.  Go to Figma, select the new icon to add and export it:
-    
+
     1.  Select The icon inside the mockup page
-        
+
     2.  On the left SideBar, make sure that you selected the entire icon, not only a part of it
-        
+
     3.  On the right SideBar, click "export" (if not visible, right click on the Icon and select "export")
-        
+
     4.  Export the Icon as `SVG`
-        
+
 2.  Save the icon in our project in the path `src/glyphs`
-    
+
 3.  Update The `📄 package.json` file with a new patch version
-    
-4.  Make sure that the new icon has a proper name, commit the icon and push it to github  
-    You'll notice that when you create the pr a github action will start and build the projects
-    
+
+4.  Make sure that the new icon has a proper name, commit the icon and push it to GitHub<br/>
+    You'll notice that when you create the pr a GitHub action will start and build the projects
+
 5.  wait for this action to finish and make sure it changes the font files before merging your PR!
-    
+
 6.  Merge your PR
-    
+
 7.  after build you need to set a new [release version in GitHub](https://github.com/swimmio/fontaweswimm/releases) and point it to your branch
-    
+
 8.  Now you can pull the branch locally and use your new icon 👑
-    
-
-
-
-
-
-
-
 
 ## The build process workflow
 
