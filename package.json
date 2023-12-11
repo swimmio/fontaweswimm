@@ -1,7 +1,7 @@
 {
   "name": "fontaweswimm",
   "main": "src/fonts/fontaweswimm/style.css",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Fontaweswimm fonts for Swimm",
   "repository": {
     "type": "git",
