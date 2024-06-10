@@ -1056,7 +1056,7 @@
 }
 
 
-.icon-split-view-horizontal-squared:before {
+.icon-split-snippet:before {
   content: "\e9ce";
 }
 
@@ -1066,273 +1066,283 @@
 }
 
 
-.icon-split-view-vertical-squared:before {
+.icon-split-view-vertical:before {
   content: "\e9d0";
 }
 
 
-.icon-split-view-vertical:before {
+.icon-star-filled:before {
   content: "\e9d1";
 }
 
 
-.icon-star-filled:before {
+.icon-star-outline:before {
   content: "\e9d2";
 }
 
 
-.icon-star-outline:before {
+.icon-stats:before {
   content: "\e9d3";
 }
 
 
-.icon-stats:before {
+.icon-stop:before {
   content: "\e9d4";
 }
 
 
-.icon-stop:before {
+.icon-strike:before {
   content: "\e9d5";
 }
 
 
-.icon-strike:before {
+.icon-sync-code:before {
   content: "\e9d6";
 }
 
 
-.icon-sync-code:before {
+.icon-sync-token:before {
   content: "\e9d7";
 }
 
 
-.icon-sync-token:before {
+.icon-sync:before {
   content: "\e9d8";
 }
 
 
-.icon-sync:before {
+.icon-table:before {
   content: "\e9d9";
 }
 
 
-.icon-table:before {
+.icon-tag:before {
   content: "\e9da";
 }
 
 
-.icon-tag:before {
+.icon-task:before {
   content: "\e9db";
 }
 
 
-.icon-task:before {
+.icon-team-add:before {
   content: "\e9dc";
 }
 
 
-.icon-team-add:before {
+.icon-team:before {
   content: "\e9dd";
 }
 
 
-.icon-team:before {
+.icon-template:before {
   content: "\e9de";
 }
 
 
-.icon-template:before {
+.icon-terminal:before {
   content: "\e9df";
 }
 
 
-.icon-terminal:before {
+.icon-text-bullet:before {
   content: "\e9e0";
 }
 
 
-.icon-text-bullet:before {
+.icon-text-headline1:before {
   content: "\e9e1";
 }
 
 
-.icon-text-headline:before {
+.icon-text-headline2:before {
   content: "\e9e2";
 }
 
 
-.icon-text-headline2:before {
+.icon-text-headline3:before {
   content: "\e9e3";
 }
 
 
-.icon-text-headline3:before {
+.icon-text-headline4:before {
   content: "\e9e4";
 }
 
 
-.icon-time:before {
+.icon-text-headline5:before {
   content: "\e9e5";
 }
 
 
-.icon-topic-add:before {
+.icon-text-headline6:before {
   content: "\e9e6";
 }
 
 
-.icon-topic-api:before {
+.icon-time:before {
   content: "\e9e7";
 }
 
 
-.icon-topic-flow:before {
+.icon-topic-add:before {
   content: "\e9e8";
 }
 
 
-.icon-topic-general:before {
+.icon-topic-api:before {
   content: "\e9e9";
 }
 
 
-.icon-topic-integration:before {
+.icon-topic-flow:before {
   content: "\e9ea";
 }
 
 
-.icon-topic-overview:before {
+.icon-topic-general:before {
   content: "\e9eb";
 }
 
 
-.icon-trash-fill:before {
+.icon-topic-integration:before {
   content: "\e9ec";
 }
 
 
-.icon-trash-outline:before {
+.icon-topic-overview:before {
   content: "\e9ed";
 }
 
 
-.icon-troubleshoot:before {
+.icon-trash-fill:before {
   content: "\e9ee";
 }
 
 
-.icon-tutorial:before {
+.icon-trash-outline:before {
   content: "\e9ef";
 }
 
 
-.icon-twitter:before {
+.icon-troubleshoot:before {
   content: "\e9f0";
 }
 
 
-.icon-ul:before {
+.icon-tutorial:before {
   content: "\e9f1";
 }
 
 
-.icon-unavailable-fill:before {
+.icon-twitter:before {
   content: "\e9f2";
 }
 
 
-.icon-unavailable:before {
+.icon-ul:before {
   content: "\e9f3";
 }
 
 
-.icon-underline:before {
+.icon-unavailable-fill:before {
   content: "\e9f4";
 }
 
 
-.icon-union:before {
+.icon-unavailable:before {
   content: "\e9f5";
 }
 
 
-.icon-unlink:before {
+.icon-underline:before {
   content: "\e9f6";
 }
 
 
-.icon-update:before {
+.icon-union:before {
   content: "\e9f7";
 }
 
 
-.icon-updated:before {
+.icon-unlink:before {
   content: "\e9f8";
 }
 
 
-.icon-upload:before {
+.icon-update:before {
   content: "\e9f9";
 }
 
 
-.icon-vertical-expand:before {
+.icon-updated:before {
   content: "\e9fa";
 }
 
 
-.icon-video-fill:before {
+.icon-upload:before {
   content: "\e9fb";
 }
 
 
-.icon-video:before {
+.icon-vertical-expand:before {
   content: "\e9fc";
 }
 
 
-.icon-vscode:before {
+.icon-video-fill:before {
   content: "\e9fd";
 }
 
 
-.icon-warning-fill:before {
+.icon-video:before {
   content: "\e9fe";
 }
 
 
-.icon-warning:before {
+.icon-vscode:before {
   content: "\e9ff";
 }
 
 
-.icon-wave:before {
+.icon-warning-fill:before {
   content: "\ea00";
 }
 
 
-.icon-window-unavailable:before {
+.icon-warning:before {
   content: "\ea01";
 }
 
 
-.icon-windows:before {
+.icon-wave:before {
   content: "\ea02";
 }
 
 
-.icon-workflow:before {
+.icon-window-unavailable:before {
   content: "\ea03";
 }
 
 
-.icon-workspace:before {
+.icon-windows:before {
   content: "\ea04";
 }
 
 
-.icon-youtube:before {
+.icon-workflow:before {
   content: "\ea05";
+}
+
+
+.icon-workspace:before {
+  content: "\ea06";
+}
+
+
+.icon-youtube:before {
+  content: "\ea07";
 }
 
 /* Automatic class generation: end */
