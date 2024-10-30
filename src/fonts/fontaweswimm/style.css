@@ -1345,4 +1345,14 @@
   content: "\ea07";
 }
 
+
+.icon-zoom-in:before {
+  content: "\ea08";
+}
+
+
+.icon-zoom-out:before {
+  content: "\ea09";
+}
+
 /* Automatic class generation: end */
